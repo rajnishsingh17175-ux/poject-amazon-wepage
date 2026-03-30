@@ -1,2 +1,3 @@
 # poject-amazon-wepage
-with the help of HTMl and CSS
+This is my first GIthub Repository.
+with the help of HTMl and CSS.
